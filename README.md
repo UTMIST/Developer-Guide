@@ -1,10 +1,10 @@
-# UTMIST Developer Guide (June 2020)
+# UTMIST Developer Guide (2020-2021)
 
 Welcome to being a developer at UTMIST!
 
 ## Projects
 
-As a developer, you'll work on a machine intelligence, data science, or statistical project in a team. We treat these as collaborative learning and portfolio opportunities, and want developers to accomplish something they can be proud of.
+As a developer in either the [Academics](https://utmist.gitlab.io/team/academics) and/or [Engineering](https://utmist.gitlab.io/team/engineering) Departments, you'll work on a machine intelligence, data science, or statistical project in a team. We treat these as collaborative learning and portfolio opportunities, and want developers to accomplish something they can be proud of.
 
 We have three types of projects:
 
@@ -20,6 +20,8 @@ We have three types of projects:
 
 - Projects and codebases should generally be open-source. This is not a strict rule but a preference.
 - Teams should have a minimum of two (2) members; three (3) or more is highly recommended.
+- If we originally offered you a position in both departments, the one you'll ultimately be a part of will depend on the project you join.
+- If for any reason you would like to switch your department to work on the other type of project, we're happy to discuss that with you and help you fit in.
 
 ### Starting a Project
 
@@ -59,7 +61,7 @@ For most, if not all projects, we would like to see a final presentation of some
 
 ---
 
-We're glad to have you join us, and hope you have a good experience. If you have any questions or concerns, let us know in the _#academics_ or _#engineering_ channel on [Discord](https://discord.gg/88mSPw8).
+We're glad to have you join us, and hope you have a good experience. If you have any questions or concerns, let us know in the _#academics_ and/or _#engineering_ channels on [Discord](https://discord.gg/88mSPw8).
 
 ---
 
@@ -67,4 +69,4 @@ We're glad to have you join us, and hope you have a good experience. If you have
 
 ###### † - Academic and applied projects will be listed after proposals are reviewed; this document along with our Discord channels will be updated then.
 
-###### ‡ - Project Directors understand that most developers enter a project with plenty of room for learning and growth. With that said, in the off chance that UTMIST selected you as a developer but you couldn't join or weren't interested in any listed projects, UTMIST will help you find work on something meaningful. Please feel free to discuss this with us.
+###### ‡ - Project Directors will understand that most developers enter a project with plenty of room for learning and growth. With that said, in the off chance that UTMIST selected you as a developer but you couldn't join or weren't interested in any listed projects, UTMIST will help you find work on something meaningful. Please feel free to discuss this with us.
