@@ -25,17 +25,30 @@ We have three types of projects:
 
 ### Starting a Project
 
-Some developers will have their own ideas, and we want to provide leadership opportunities as well. Feel free to submit a proposal (link to be included soon), including an abstract and team/resource expectations; **for the majority of projects, this will occur in July or August.\*** If we accept your proposal after discussing it with you, you will serve as the Director, and we'll help you with your team-forming process.
+Some developers will have their own ideas, and we want to provide leadership opportunities as well. Feel free to submit a proposal (link to be included soon), including an abstract and team/resource expectations. If we accept your proposal after discussing it with you, you will serve as the Director, and we'll help you with your team-forming process.
+
+**(Update 2020/07/19) during the remainder of July, try to be active on [Discord](https://discord.gg/88mSPw8) (#academics, #engineering) to chat with other developers. This will help you identify similar interests and discuss ideas before you submit. A good conversation starter would be to [@mention](https://discordia.me/en/mentions) the developer role(s) to state your interests, and use the text or voice channels.**
+
+#### Suggested Proposal Structure
+
+Please submit your proposal in some common document format (PDF, Markdown, etc.). It will be fairly open-ended but we suggest one to two pages including the following points.
+
+- Abstract (background, precedent, general motivations).
+- List of resources (papers, articles, and advisors, as applicable).
+- Summary of specific goals.
+- Expectations for teammates (team size, expertise, availability, etc.) and advising.
+
+**Please submit your proposal by 23:59 on August 7th, 2020 to [utorontomist@gmail.com](mailto:utorontomist@gmail.com).**
 
 ### Joining a Project
 
-Most developers will join a team in **August or September.\*** You can [review the list of ongoing projects](https://utmist.gitlab.io/projects)† and follow the instructions for the project(s) you're interested in. The Director(s) will likely request to chat with you (like a **really informal** interview) in this team-forming process.‡
+Most developers will join a team in **mid/late-August or September (starting August 15th).** You can [review the list of ongoing projects](https://utmist.gitlab.io/projects)† and follow the instructions for the project(s) you're interested in. The Director(s) will likely request to chat with you (like a **really informal** interview) in this team-forming process.‡
 
 **There is no strict requirement that you are already an associate developer at UTMIST; you can simply reach out to the Director of the project you're interested in to make possible arrangements.**
 
 ### Working on a Project
 
-These projects are meant to be a collaborative learning experience. While the Director should lead the discourse and groupwork, every member of the team should be involved in decision-making. In addition to the expected project work, each team is also responsible for
+These projects are meant to be a collaborative learning experience. While the Director will lead the discourse and groupwork, every member of the team should be involved in decision-making. In addition to the expected project work, each team is also responsible for
 
 - Clarifying the scope and context of the project;
 - Setting the timeline, goals, and team expectations (such as commitment, meetings, self-learning);
