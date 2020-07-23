@@ -4,17 +4,18 @@ Welcome to being a developer at UTMIST!
 
 ## Projects
 
-As a developer in either the [Academics](https://utmist.gitlab.io/team/academics) and/or [Engineering](https://utmist.gitlab.io/team/engineering) Departments, you'll work on a machine intelligence, data science, or statistical project in a team. We treat these as collaborative learning and portfolio opportunities, and want developers to accomplish something they can be proud of.
+As a developer in either the [Academics](https://utmist.gitlab.io/academics) and/or [Engineering](https://utmist.gitlab.io/engineering) Departments, you'll work on a machine intelligence, data science, or statistical project in a team. We treat these as collaborative learning and portfolio opportunities, and want developers to accomplish something they can be proud of.
 
 We have three types of projects:
 
-- [Academic](https://utmist.gitlab.io/team/academics): Paper reproduction or extension or other academic/research work.
+- [Academic](https://utmist.gitlab.io/academics): Paper reproduction or extension or other academic/research work.
   - Academic projects almost always involve paper reading (and maybe even writing), so strong academic performance and technical knowledge are considered vital.
-- Applied ([Engineering](https://utmist.gitlab.io/team/engineering)): Open-ended, similar to "side projects" or hackathon projects.
+- Applied ([Engineering](https://utmist.gitlab.io/engineering)): Open-ended, similar to "side projects" or hackathon projects.
   - Most of these (if not all) should be hosted on [GitHub](https://github.com/utmist). You will need to create an account.
-- Infrastructure ([Engineering](https://utmist.gitlab.io/team/engineering)): Tools and services that help UTMIST function at its core.
+- Infrastructure ([Engineering](https://utmist.gitlab.io/engineering)): Tools and services that help UTMIST function at its core.
+  - This is a special team grouped in [Engineering](https://utmits.gitlab.io/engineering) due to similar skills and technologies.
   - These (including this document) are hosted on [GitLab](https://gitlab.com/utmist) and mirrored to [GitHub](https://github.com/utmist).
-  - You will need to create an account on GitLab, preferably with the same username as your GitHub account.
+  - You will need to create an account on [GitLab](https://gitlab.com), preferably with the same username as your [GitHub](https://github.com) account.
 
 ##### Notes on Projects and Teams
 
@@ -25,7 +26,7 @@ We have three types of projects:
 
 ### Starting a Project
 
-Some developers will have their own ideas, and we want to provide leadership opportunities as well. Feel free to submit a proposal (link to be included soon), including an abstract and team/resource expectations. If we accept your proposal after discussing it with you, you will serve as the Director, and we'll help you with your team-forming process.
+Some developers will have their own ideas, and we want to provide leadership opportunities as well. Projects will be selected from proposals submitted by developers, and if we accept your proposal after discussing it with you, you will serve as the Director, and we'll help you with your team-forming process.
 
 **(Update 2020/07/19) during the remainder of July, try to be active on [Discord](https://discord.gg/88mSPw8) (#academics, #engineering) to chat with other developers. This will help you identify similar interests and discuss ideas before you submit. A good conversation starter would be to [@mention](https://discordia.me/en/mentions) the developer role(s) to state your interests, and use the text or voice channels.**
 
@@ -42,9 +43,9 @@ Please submit your proposal in some common document format (PDF, Markdown, etc.)
 
 ### Joining a Project
 
-Most developers will join a team in **mid/late-August or September (starting August 15th).** You can [review the list of ongoing projects](https://utmist.gitlab.io/projects)† and follow the instructions for the project(s) you're interested in. The Director(s) will likely request to chat with you (like a **really informal** interview) in this team-forming process.‡
+Most developers will join a team in **mid/late-August or September (starting August 15th).** You can [review the list of ongoing projects](https://utmist.gitlab.io/projects)† **(this will be populated with updated projects on 2020/08/15)** and follow the instructions for the project(s) you're interested in. The Director(s) will likely request to chat with you (like a **really informal** interview) in this team-forming process.‡
 
-**There is no strict requirement that you are already an associate developer at UTMIST; you can simply reach out to the Director of the project you're interested in to make possible arrangements.**
+**There is no strict requirement that you are already a developer at UTMIST**; you can follow the instructions the [project listing](https://utmist.gitlab.io/projects) or simply reach out to the Director of the project you're interested in to make possible arrangements.
 
 ### Working on a Project
 
@@ -72,14 +73,16 @@ It's important to have not just good ideas and working code but also documentati
 
 For most, if not all projects, we would like to see a final presentation of some form, to be ready near the end of the school year in March\*. This could be a talk, video, infographic, technical article, or documented codebase. Teams can also present work-in-progress (WIP) material or interesting milestones or resources at earlier times if appropriate.
 
+**For 2020-2021, while we prefer to host in-person presentation events, this seems unlikely. It would be wise to prepare for an online or perhaps asynchronous format.**
+
 ---
 
 We're glad to have you join us, and hope you have a good experience. If you have any questions or concerns, let us know in the _#academics_ and/or _#engineering_ channels on [Discord](https://discord.gg/88mSPw8).
 
 ---
 
-###### \* - The timeline is currently approximated; this document along with our Discord channels will be updated when specific dates are determined.
+###### \* - Parts of the timeline are currently approximated; this document along with our Discord channels will be updated when specific dates are determined.
 
 ###### † - Academic and applied projects will be listed after proposals are reviewed; this document along with our Discord channels will be updated then.
 
-###### ‡ - Project Directors will understand that most developers enter a project with plenty of room for learning and growth. With that said, in the off chance that UTMIST selected you as a developer but you couldn't join or weren't interested in any listed projects, UTMIST will help you find work on something meaningful. Please feel free to discuss this with us.
+###### ‡ - Project Directors have the understanding that most developers enter a project with plenty of room for learning and growth. With that said, in the off chance that UTMIST selected you as a developer but you couldn't join or weren't interested in any listed projects, UTMIST will help you find work on something meaningful. Please feel free to discuss this with us.
