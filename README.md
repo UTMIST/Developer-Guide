@@ -1,6 +1,6 @@
 # UTMIST Developer Guide (2020-2021)
 
-Welcome to being a developer at UTMIST!
+Welcome to being a developer at UTMIST! This guide is for current developers or applicants.
 
 ## Projects
 
@@ -28,7 +28,9 @@ We have three types of projects:
 
 Some developers will have their own ideas, and we want to provide leadership opportunities as well. Projects will be selected from proposals submitted by developers, and if we accept your proposal after discussing it with you, you will serve as the Director, and we'll help you with your team-forming process.
 
-**(Update 2020/07/19) during the remainder of July, try to be active on [Discord](https://discord.gg/88mSPw8) (#academics, #engineering) to chat with other developers. This will help you identify similar interests and discuss ideas before you submit. A good conversation starter would be to [@mention](https://discordia.me/en/mentions) the developer role(s) to state your interests, and use the text or voice channels.**
+(Update 2020/07/19) During the remainder of July, try to be active on [Discord](https://discord.gg/88mSPw8) (#academics, #engineering) to chat with other developers. This will help you identify similar interests and discuss ideas before you submit. A good conversation starter would be to [@mention](https://discordia.me/en/mentions) the developer role(s) to state your interests, and use the text or voice channels.
+
+**(Update 2020/07/28) If you are not currently a developer in UTMIST, you may still submit a proposal, but you'll be subject to a technical interview with our executive team. If you didn't apply by 2020/06/25, please follow this route.**
 
 #### Suggested Proposal Structure
 
@@ -39,13 +41,13 @@ Please submit your proposal in some common document format (PDF, Markdown, etc.)
 - Summary of specific goals.
 - Expectations for teammates (team size, expertise, availability, etc.) and advising.
 
-**Please submit your proposal by 23:59 on August 7th, 2020 to [utorontomist@gmail.com](mailto:utorontomist@gmail.com).**
+**Please submit your proposal by 23:59 on August 7th, 2020 to [utorontomist@gmail.com](mailto:utorontomist@gmail.com).** Later submissions may not be evaluated in time for the main team-forming process, so please submit on time possible.
 
 ### Joining a Project
 
 Most developers will join a team in **mid/late-August or September (starting August 15th).** You can [review the list of ongoing projects](https://utmist.gitlab.io/projects)† **(this will be populated with updated projects on 2020/08/15)** and follow the instructions for the project(s) you're interested in. The Director(s) will likely request to chat with you (like a **really informal** interview) in this team-forming process.‡
 
-**There is no strict requirement that you are already a developer at UTMIST**; you can follow the instructions the [project listing](https://utmist.gitlab.io/projects) or simply reach out to the Director of the project you're interested in to make possible arrangements.
+**There is no strict requirement that you are already a developer at UTMIST**; you can follow the instructions the [project listing](https://utmist.gitlab.io/projects) or simply reach out to the Director of the project you're interested in to make possible arrangements. **If you didn't apply by 2020/06/25, please follow this route.**
 
 ### Working on a Project
 
