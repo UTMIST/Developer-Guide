@@ -41,7 +41,7 @@ Please submit your proposal in some common document format (PDF, Markdown, etc.)
 - Summary of specific goals.
 - Expectations for teammates (team size, expertise, availability, etc.) and advising.
 
-**Please submit your proposal by 23:59 on August 7th, 2020 to [utorontomist@gmail.com](mailto:utorontomist@gmail.com).** Later submissions may not be evaluated in time for the main team-forming process, so please submit on time possible.
+**Please submit your proposal by 23:59 on August 7th, 2020 to [utorontomist@gmail.com](mailto:utorontomist@gmail.com).** Later submissions may not be evaluated in time for the main team-forming process, so please submit on time.
 
 ### Joining a Project
 
